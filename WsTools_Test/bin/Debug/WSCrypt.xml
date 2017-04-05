@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WSCrypt</name>
+    </assembly>
+    <members>
+        <member name="T:CRYPT.WSCrypt">
+            <summary> Funciones para encriptar / desencriptar cadenas. </summary>
+            
+        </member>
+        <member name="M:CRYPT.WSCrypt.Encriptar(System.String)">
+            <summary> Encripta la cadena que le envíamos en el parámetro de entrada. </summary>
+            
+            <param name="_cadenaAencriptar"></param>
+            
+            <returns></returns>
+            
+        </member>
+        <member name="M:CRYPT.WSCrypt.DesEncriptar(System.String)">
+            <summary> Desencripta la cadena que le envíamos en el parámetro de entrada. </summary>
+            
+            <param name="_cadenaAdesencriptar"></param>
+            
+            <returns></returns>
+            
+        </member>
+    </members>
+</doc>

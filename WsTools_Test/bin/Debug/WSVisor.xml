@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WSVisor</name>
+    </assembly>
+    <members>
+        <member name="T:VISOR.IWSVisor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:VISOR.IWSVisor.RegistrarEvento(System.String,System.String,System.Int32,System.Int16,System.Int32,System.String[])">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:VISOR.IWSVisor2">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:VISOR.IWSVisor2.RegistrarEvento2(System.String,System.String,System.Int32,System.Int16,System.Int32,System.String[])">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:VISOR.WSVisor">
+            <summary> Funciones para gestión del visor de sucesos de Windows. </summary>
+            
+        </member>
+        <member name="M:VISOR.WSVisor.RegistrarEvento(System.String,System.String,System.Int32,System.Int16,System.Int32,System.String[])">
+            <summary> Generar un evento en el registro de eventos. </summary>
+            
+            <param name="eventName"> Nombre del evento. </param>
+            <param name="eventSource"> Origen del evento. </param>
+            <param name="eventID"> ID del evento a registrar. </param>
+            <param name="eventCategory"> Categoría del evento a registrar. </param>
+            <param name="messageEventType"> Tipo de mensaje. </param>
+            <param name="messageEventArgs"> Lista de mensajes. </param>
+            
+            <returns></returns>
+            
+        </member>
+        <member name="M:VISOR.WSVisor.RegistrarEvento32(System.String,System.String,System.Int32,System.Int16,System.Int32,System.String)">
+            <summary> Generar un evento en el registro de eventos.
+            Version 32 Bits.
+            </summary>
+            
+            <param name="eventName"> Nombre del evento. </param>
+            <param name="eventSource"> Origen del evento. </param>
+            <param name="eventID"> ID del evento a registrar. </param>
+            <param name="eventCategory"> Categoría del evento a registrar. </param>
+            <param name="messageEventType"> Tipo de mensaje. </param>
+            <param name="message"> Mensaje a registrar. </param>
+            
+            <returns></returns>
+            
+        </member>
+    </members>
+</doc>

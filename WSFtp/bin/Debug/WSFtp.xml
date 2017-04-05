@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WSFtp</name>
+    </assembly>
+    <members>
+        <member name="T:FFTP.WSFtp">
+            <summary> Funciones de Ftp. </summary>
+            
+            <remarks> Namespace FTP. Atención NO usar FTP como nombre de Namespace. </remarks>
+            
+        </member>
+        <member name="F:FFTP.WSFtp.ftphost">
+            <summary> IP del Host Ftp. </summary>
+        </member>
+        <member name="P:FFTP.WSFtp.FTPHost">
+            <summary> </summary>
+        </member>
+        <member name="F:FFTP.WSFtp.ftpuser">
+            <summary> Usuario del Host Ftp. </summary>
+        </member>
+        <member name="P:FFTP.WSFtp.FTPUser">
+            <summary> </summary>
+        </member>
+        <member name="F:FFTP.WSFtp.ftppwd">
+            <summary> Contraseña del Host Ftp. </summary>
+        </member>
+        <member name="P:FFTP.WSFtp.FTPPwd">
+            <summary> </summary>
+        </member>
+        <member name="F:FFTP.WSFtp.ftpport">
+            <summary> Puerto del Host Ftp. </summary>
+        </member>
+        <member name="P:FFTP.WSFtp.FTPPort">
+            <summary> </summary>
+        </member>
+        <member name="P:FFTP.WSFtp.UsePassive">
+            <summary> </summary>
+        </member>
+        <member name="P:FFTP.WSFtp.UseBinary">
+            <summary> </summary>
+        </member>
+        <member name="P:FFTP.WSFtp.KeepAlive">
+            <summary> </summary>
+        </member>
+        <member name="T:FFTP.WSFtp.FtpPort">
+            <summary> Números de puerto. </summary>
+        </member>
+        <member name="F:FFTP.WSFtp.FtpPort.PORTFTP">
+            <summary> </summary>
+        </member>
+        <member name="F:FFTP.WSFtp.FtpPort.PORTWEB">
+            <summary> </summary>
+        </member>
+        <member name="M:FFTP.WSFtp.FtpFileExists(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="remoteFile"> Nombre del fichero remoto. </param>
+            
+            <returns> Resultado (S/N/C) </returns>
+            
+        </member>
+        <member name="M:FFTP.WSFtp.FtpDeleteFile(System.String)">
+            <summary> Eliminar un fichero remoto. </summary>
+            
+            <param name="remoteFile"> Fichero remoto a eliminar. </param>
+            
+            <returns></returns>
+            
+        </member>
+        <member name="M:FFTP.WSFtp.FtpRenameFile(System.String,System.String)">
+            <summary> Renombrar un archivo remoto. </summary>
+            
+            <param name="remotePathFile"> Path del archivo remoto a renombrar. </param>
+            <param name="remoteFileNew"> Nuevo nombre del archivo remoto. </param>
+            
+            <returns></returns>
+            
+        </member>
+        <member name="M:FFTP.WSFtp.FtpCreateDirectory(System.String)">
+            <summary> Crear un directorio remoto. </summary>
+            
+            <param name="remoteDir"> Directorio remoto a crear. </param>
+            
+            <returns></returns>
+            
+        </member>
+        <member name="M:FFTP.WSFtp.FtpDeleteDirectory(System.String)">
+            <summary> Eliminar un directorio remoto. </summary>
+            
+            <param name="remoteDir"> Directorio remoto a eliminar. </param>
+            
+            <returns></returns>
+            
+        </member>
+        <member name="M:FFTP.WSFtp.FtpUploadFile(System.String,System.String,System.Int32)">
+            <summary> Enviar un fichero al servidor Ftp. </summary>
+            
+            <param name="localFile"> Nombre del fichero local. </param>
+            <param name="remoteFile"> Nombre del fichero remoto. </param>
+            <param name="crearFichero"> Sobreescribir destino si ya existe. </param>
+            
+            <returns> Resultado (S/N/C) </returns>
+            
+        </member>
+        <member name="M:FFTP.WSFtp.FtpDownloadFile(System.String,System.String,System.Int32)">
+            <summary> Descargar un fichero al servidor Ftp. </summary>
+            
+            <param name="remoteFile"> Nombre del fichero remoto. </param>
+            <param name="localFile"> Nombre del fichero local. </param>
+            <param name="crearFichero"> Sobreescribir destino si ya existe. </param>
+            
+            <returns> Resultado (S/N/C) </returns>
+            
+        </member>
+        <member name="M:FFTP.WSFtp.InicializeFtp(System.String,System.String,System.String,System.Int32,System.Boolean,System.Boolean,System.Boolean)">
+            <summary> Inicializar la instancia Ftp. </summary>
+            
+            <remarks>
+            Por compatibilidad con llamadas desde 32 bits.
+            De forma genérica debe llamarse al constructor.
+            </remarks>
+            
+            <param name="IPHost"></param>
+            <param name="User"></param>
+            <param name="Pwd"></param>
+            <param name="puerto"></param>
+            <param name="usePassive"></param>
+            <param name="useBinary"></param>
+            <param name="keepAlive"></param>
+            
+        </member>
+        <member name="M:FFTP.WSFtp.#ctor">
+            <summary> Constructor por defecto de la clase. </summary>
+        </member>
+        <member name="M:FFTP.WSFtp.#ctor(System.String,System.String,System.String,System.Int32,System.Boolean,System.Boolean,System.Boolean)">
+            <summary> Constructor alternativo de la clase. </summary>
+            
+            <param name="IPHost"></param>
+            <param name="User"></param>
+            <param name="Pwd"></param>
+            <param name="puerto"></param>
+            <param name="usePassive"></param>
+            <param name="useBinary"></param>
+            <param name="keepAlive"></param>
+            
+        </member>
+    </members>
+</doc>

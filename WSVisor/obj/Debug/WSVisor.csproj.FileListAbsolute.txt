@@ -1,0 +1,10 @@
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSVisor\bin\Debug\WSVisor.XML
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSVisor\bin\Debug\WSVisor.dll
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSVisor\bin\Debug\WSVisor.pdb
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSVisor\bin\Debug\WSVisor.tlb
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSVisor\bin\Debug\TOOLS.dll
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSVisor\bin\Debug\TOOLS.pdb
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSVisor\bin\Debug\TOOLS.xml
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSVisor\obj\Debug\WSVisor.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSVisor\obj\Debug\WSVisor.dll
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSVisor\obj\Debug\WSVisor.pdb

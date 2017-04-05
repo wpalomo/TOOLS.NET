@@ -1,0 +1,16 @@
+D:\PROYECTOS\SGA.NET\TEST\WSZip\bin\Debug\WSZip.dll
+D:\PROYECTOS\SGA.NET\TEST\WSZip\bin\Debug\WSZip.XML
+D:\PROYECTOS\SGA.NET\TEST\WSZip\bin\Debug\WSZip.pdb
+D:\PROYECTOS\SGA.NET\TEST\WSZip\bin\Debug\WSZip.tlb
+D:\PROYECTOS\SGA.NET\TEST\WSZip\obj\Debug\WSZip.dll
+D:\PROYECTOS\SGA.NET\TEST\WSZip\obj\Debug\WSZip.pdb
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSZip\bin\Debug\WSZip.xml
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSZip\bin\Debug\WSZip.dll
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSZip\bin\Debug\WSZip.pdb
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSZip\bin\Debug\WSZip.tlb
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSZip\bin\Debug\TOOLS.dll
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSZip\bin\Debug\TOOLS.pdb
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSZip\bin\Debug\TOOLS.xml
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSZip\obj\Debug\WSZip.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSZip\obj\Debug\WSZip.dll
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSZip\obj\Debug\WSZip.pdb

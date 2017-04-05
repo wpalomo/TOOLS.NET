@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TOOLS</name>
+    </assembly>
+    <members>
+        <member name="T:TOOLS._Tools">
+            <summary> Propiedades y métodos base para TOOLS. </summary>
+            
+            <remarks>
+            Necesario declarar para interoperabilidad para que
+            los proyectos que hereden lo pudedan hacer también.
+            </remarks>
+        </member>
+        <member name="F:TOOLS._Tools.mailMessage">
+            <summary> Propiedades del servidor de correo. </summary>
+        </member>
+        <member name="F:TOOLS._Tools.smtpClient">
+            <summary> Propiedades del mensaje de correo. </summary>
+        </member>
+        <member name="T:TOOLS._Tools.CompressionLev">
+            <summary> Grado de compresión de ficheros. </summary>
+        </member>
+        <member name="F:TOOLS._Tools.CompressionLev.FASTEST">
+            <summary> </summary>
+        </member>
+        <member name="F:TOOLS._Tools.CompressionLev.NOCOMPRESSION">
+            <summary> </summary>
+        </member>
+        <member name="F:TOOLS._Tools.CompressionLev.OPTIMAL">
+            <summary> </summary>
+        </member>
+        <member name="F:TOOLS._Tools.FtpRequest">
+            <summary> Conexión con el Host Ftp para Upload / Download archivos. </summary>
+        </member>
+        <member name="F:TOOLS._Tools.FtpResponse">
+            <summary> Conexión con el Host Ftp para descargar archivos. </summary>
+        </member>
+        <member name="F:TOOLS._Tools.FtpFileStream">
+            <summary> Canal de comunicación con el Host Ftp. </summary>
+        </member>
+        <member name="F:TOOLS._Tools.FtpStreamReader">
+            <summary> Canal de comunicación con el Host Ftp para lectura. </summary>
+        </member>
+        <member name="T:TOOLS._Tools.EventLevel">
+            <summary> Nivel de mensaje. </summary>
+        </member>
+        <member name="F:TOOLS._Tools.EventLevel.ERROR">
+            <summary> </summary>
+        </member>
+        <member name="F:TOOLS._Tools.EventLevel.FAILUREAUDIT">
+            <summary> </summary>
+        </member>
+        <member name="F:TOOLS._Tools.EventLevel.INFORMATION">
+            <summary> </summary>
+        </member>
+        <member name="F:TOOLS._Tools.EventLevel.SUCCESSAUDIT">
+            <summary> </summary>
+        </member>
+        <member name="F:TOOLS._Tools.EventLevel.WARNING">
+            <summary> </summary>
+        </member>
+        <member name="F:TOOLS._Tools._BYTE_BUFFER">
+            <summary> Tamaño buffer comunicación. </summary>
+        </member>
+        <member name="P:TOOLS._Tools.Resultado">
+            <summary> Resultado de llamadas a función. </summary>
+        </member>
+        <member name="P:TOOLS._Tools.UsrErrorC">
+            <summary> Código de error de programa. </summary>
+        </member>
+        <member name="P:TOOLS._Tools.UsrError">
+            <summary> Mensajes de error. </summary>
+        </member>
+        <member name="P:TOOLS._Tools.UsrErrorE">
+            <summary> Mensaje de error extendido. </summary>
+        </member>
+        <member name="M:TOOLS._Tools.#ctor">
+            <summary> Constructor por defecto. </summary>
+            
+        </member>
+    </members>
+</doc>

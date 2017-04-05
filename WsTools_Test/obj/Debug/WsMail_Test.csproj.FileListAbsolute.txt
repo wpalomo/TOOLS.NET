@@ -1,0 +1,15 @@
+D:\PROYECTOS\SGA.NET\TEST\WsMail\WsMail_Test\bin\Debug\WsMail_Test.exe.config
+D:\PROYECTOS\SGA.NET\TEST\WsMail\WsMail_Test\bin\Debug\WsMail_Test.exe
+D:\PROYECTOS\SGA.NET\TEST\WsMail\WsMail_Test\bin\Debug\WsMail_Test.pdb
+D:\PROYECTOS\SGA.NET\TEST\WsMail\WsMail_Test\bin\Debug\WSCrypt.dll
+D:\PROYECTOS\SGA.NET\TEST\WsMail\WsMail_Test\bin\Debug\WsMail.dll
+D:\PROYECTOS\SGA.NET\TEST\WsMail\WsMail_Test\bin\Debug\WSZip.dll
+D:\PROYECTOS\SGA.NET\TEST\WsMail\WsMail_Test\bin\Debug\WSCrypt.pdb
+D:\PROYECTOS\SGA.NET\TEST\WsMail\WsMail_Test\bin\Debug\WSCrypt.xml
+D:\PROYECTOS\SGA.NET\TEST\WsMail\WsMail_Test\bin\Debug\WSZip.pdb
+D:\PROYECTOS\SGA.NET\TEST\WsMail\WsMail_Test\bin\Debug\WSZip.xml
+D:\PROYECTOS\SGA.NET\TEST\WsMail\WsMail_Test\obj\Debug\WsMail_Test.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\SGA.NET\TEST\WsMail\WsMail_Test\obj\Debug\WsMail_Test.exe
+D:\PROYECTOS\SGA.NET\TEST\WsMail\WsMail_Test\obj\Debug\WsMail_Test.pdb
+D:\PROYECTOS\SGA.NET\TEST\WsMail\WsMail_Test\bin\Debug\WsMail.pdb
+D:\PROYECTOS\SGA.NET\TEST\WsMail\WsMail_Test\bin\Debug\WsMail.xml

@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WsMail</name>
+    </assembly>
+    <members>
+        <member name="T:WsMail.Properties.Resources">
+            <summary>
+              Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+            </summary>
+        </member>
+        <member name="P:WsMail.Properties.Resources.ResourceManager">
+            <summary>
+              Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+            </summary>
+        </member>
+        <member name="P:WsMail.Properties.Resources.Culture">
+            <summary>
+              Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+              búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+            </summary>
+        </member>
+        <member name="P:WsMail.Properties.Resources.Fake">
+            <summary>
+              Busca una cadena traducida similar a Fake.
+            </summary>
+        </member>
+        <member name="T:MAIL.WSMail">
+            <summary> Clase para enviar e-mails desde programas. </summary>
+            
+        </member>
+        <member name="P:MAIL.WSMail.Priority">
+            <summary> Prioridad del mensaje. </summary>
+        </member>
+        <member name="P:MAIL.WSMail.BodyHtml">
+            <summary> Body en Html. </summary>
+        </member>
+        <member name="M:MAIL.WSMail.SendSimpleEMail(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary> Función simple de envío de e-mail. </summary>
+            
+            <remarks>
+            Función de uso general. 
+            Valido en entornos de 32 bits y 64 bits.
+            </remarks>
+            
+            <param name="strFrom"> Remitente. </param>
+            <param name="strTo"> Destinatario. </param>
+            <param name="strName"> Nombre a mostrar. </param>
+            <param name="strSubject"> Asunto. </param>
+            <param name="strBody"> Cuerpo del mensaje. </param>
+            <param name="strCC"> Destinatarios con copia normal. </param>
+            <param name="strCCO"> Destinatarios con copia oculta. </param>
+            <param name="strAdjunto"> Archivo adjunto. </param>
+            
+            <returns> Resultado (S / N) </returns>
+            
+        </member>
+        <member name="M:MAIL.WSMail.SendFullEMail(System.String,System.Collections.Generic.List{System.String},System.String,System.String,System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.String})">
+            <summary> Función simple de envío de e-mail. </summary>
+            
+            <remarks>
+            Función de uso general. 
+            Valido en entornos de 64 bits.
+            </remarks>
+            
+            <param name="strFrom"> Remitente. </param>
+            <param name="lstTo"> Destinatario. </param>
+            <param name="strName"> Nombre a mostrar. </param>
+            <param name="strSubject"> Asunto. </param>
+            <param name="strBody"> Cuerpo del mensaje. </param>
+            <param name="lstToCC"> Destinatarios con copia normal. </param>
+            <param name="lstToCCO"> Destinatarios con copia oculta. </param>
+            <param name="lstAdjuntos"> Archivos adjuntos. </param>
+            
+            <returns> Resultado (S / N) </returns>
+            
+        </member>
+        <member name="M:MAIL.WSMail.SendFullEMail(System.String,System.String,System.String,System.String,System.Int32,System.Int32,System.Int32,System.Int32,System.Object[])">
+            <summary> Función simple de envío de e-mail. </summary>
+            
+            <remarks>
+            Función de uso general. 
+            Valido en entornos de 32 bits y 64 bits.
+            
+            Formato de ParameterList:
+                nD: Nº de destinatarios.
+                d1, d2, ---, dn: Lista de destinatarios.
+                nX: Nº de destinatarios con copia.
+                x1, x2, ..., xn: Lista de destinatarios con copia.
+                nY: Nª de destinatarios con copia oculta.
+                y1, y2, ..., yn: Lista de destinatarios con copia oculta.
+                nZ: Nº de archivos adjuntos.
+                z1, z2, ..., zn: Lista de archivos adjuntos.
+            </remarks>
+            
+            <param name="strFrom"> Remitente. </param>
+            <param name="strSubject"> Asunto. </param>
+            <param name="strBody"> Cuerpo del mensaje. </param>
+            <param name="strName"> Nombre del remitente. </param>
+            <param name="ToParameterNo"> Nº de destinatarios. </param>
+            <param name="CcParameterNo"> Nº de destinatarios con copia normal. </param>
+            <param name="CcoParameterNo"> Nº de destinatarios con copia oculta. </param>
+            <param name="AttachParameterNo"> Nº de archivos adjuntos. </param>
+            <param name="ParameterList"> Lista de parámetros (See Up). </param>
+            
+            <returns></returns>
+            
+        </member>
+        <member name="M:MAIL.WSMail.InitializeHost(System.String,System.String,System.String,System.Int32,System.Boolean)">
+            <summary> Inicializar las propiedades del servidor de correo. </summary>
+            
+            <param name="strHost"></param>
+            <param name="strUser"></param>
+            <param name="strPwd"></param>
+            <param name="nPort"></param>
+            <param name="enableSSL"></param>
+            
+            <returns> Resultado (S / N) </returns>
+            
+        </member>
+        <member name="M:MAIL.WSMail.Finalizar">
+            <summary> Al finalizar el proceso. </summary>
+            
+        </member>
+    </members>
+</doc>

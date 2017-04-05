@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WSVarios</name>
+    </assembly>
+    <members>
+        <member name="T:VARIOS.WSVarios">
+            <summary> Funciones varias de uso general. </summary>
+            
+        </member>
+        <member name="M:VARIOS.WSVarios.ConvertirTipoS``1(System.Object)">
+            <summary> Conversión automática de tipos. Versión con función estática. </summary>
+            
+            <param name="o"> Variable de entrada a convertir. </param>
+            
+            <returns> Variable convertida al nuevo tipo. </returns>
+            
+            <remarks> Al declararse como estática no necesita ser instanciada. </remarks>
+            
+        </member>
+        <member name="T:VARIOS.WSVarios.GenericConversion`1">
+            <summary> Conversión automática de tipos. </summary>
+            
+            <typeparam name="TipoNuevo"> Tipo destino del objeto recibido. </typeparam>
+            
+        </member>
+        <member name="M:VARIOS.WSVarios.GenericConversion`1.ConvertirTipo(System.Object)">
+            <summary> Conversión automática de tipos. </summary>
+            
+            <param name="o"> Variable de entrada a convertir. </param>
+            
+            <returns> Variable convertida al nuevo tipo. </returns>
+            
+        </member>
+        <member name="T:VARIOS.WSVarios.GenericStack`1">
+            <summary> Gestión de pilas LIFO. </summary>
+            
+            <typeparam name="CualquierTipo"></typeparam>
+            
+        </member>
+        <member name="P:VARIOS.WSVarios.GenericStack`1.Elementos">
+            <summary> Devuelve el número de elementos de la pila. </summary>
+        </member>
+        <member name="F:VARIOS.WSVarios.GenericStack`1.m_data">
+            <summary> Pila de objetos LIFO </summary>
+        </member>
+        <member name="M:VARIOS.WSVarios.GenericStack`1.Push(`0)">
+            <summary> Añadir un objeto a la pila. </summary>
+            
+            <param name="data"> Objeto a agregar a la pila. </param>
+            
+            <returns> Nº de objetos de la pila. </returns>
+            
+        </member>
+        <member name="M:VARIOS.WSVarios.GenericStack`1.Pop">
+            <summary> Devolver el elemento superior de la pila. </summary>
+            
+            <returns> Elemento superior de la pila. </returns>
+            
+        </member>
+        <member name="T:VARIOS.WSVarios.GenericQueue`1">
+            <summary> Gestión de pilas FIFO. </summary>
+            
+            <typeparam name="CualquierTipo"></typeparam>
+            
+        </member>
+        <member name="P:VARIOS.WSVarios.GenericQueue`1.Elementos">
+            <summary> Devuelve el número de elementos de la cola. </summary>
+        </member>
+        <member name="F:VARIOS.WSVarios.GenericQueue`1.m_data">
+            <summary> Pila de objetos LIFO </summary>
+        </member>
+        <member name="M:VARIOS.WSVarios.GenericQueue`1.Push(`0)">
+            <summary> Añadir un objeto a la pila. </summary>
+            
+            <param name="data"> Objeto a agregar a la pila. </param>
+            
+            <returns> Nº de objetos de la pila. </returns>
+            
+        </member>
+        <member name="M:VARIOS.WSVarios.GenericQueue`1.Pop">
+            <summary>Devolver el elemento inferior de la pila </summary>
+            
+            <returns> Elemento inferior de la pila. </returns>
+            
+        </member>
+    </members>
+</doc>

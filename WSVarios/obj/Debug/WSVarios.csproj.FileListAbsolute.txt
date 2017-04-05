@@ -1,0 +1,10 @@
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSVarios\bin\Debug\WSVarios.XML
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSVarios\obj\Debug\WSVarios.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSVarios\bin\Debug\WSVarios.dll
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSVarios\bin\Debug\WSVarios.pdb
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSVarios\bin\Debug\WSVarios.tlb
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSVarios\bin\Debug\TOOLS.dll
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSVarios\bin\Debug\TOOLS.pdb
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSVarios\bin\Debug\TOOLS.xml
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSVarios\obj\Debug\WSVarios.dll
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSVarios\obj\Debug\WSVarios.pdb

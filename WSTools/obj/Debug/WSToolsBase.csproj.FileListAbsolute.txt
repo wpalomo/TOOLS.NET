@@ -1,0 +1,6 @@
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSTools\bin\Debug\TOOLS.xml
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSTools\bin\Debug\TOOLS.dll
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSTools\bin\Debug\TOOLS.pdb
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSTools\bin\Debug\TOOLS.tlb
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSTools\obj\Debug\TOOLS.dll
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSTools\obj\Debug\TOOLS.pdb

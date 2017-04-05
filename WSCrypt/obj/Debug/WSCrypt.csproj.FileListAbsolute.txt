@@ -1,0 +1,16 @@
+D:\PROYECTOS\SGA.NET\TEST\WSCrypt\bin\Debug\WSCrypt.dll
+D:\PROYECTOS\SGA.NET\TEST\WSCrypt\bin\Debug\WSCrypt.XML
+D:\PROYECTOS\SGA.NET\TEST\WSCrypt\bin\Debug\WSCrypt.pdb
+D:\PROYECTOS\SGA.NET\TEST\WSCrypt\bin\Debug\WSCrypt.tlb
+D:\PROYECTOS\SGA.NET\TEST\WSCrypt\obj\Debug\WSCrypt.dll
+D:\PROYECTOS\SGA.NET\TEST\WSCrypt\obj\Debug\WSCrypt.pdb
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSCrypt\bin\Debug\WSCrypt.xml
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSCrypt\bin\Debug\WSCrypt.dll
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSCrypt\bin\Debug\WSCrypt.pdb
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSCrypt\bin\Debug\WSCrypt.tlb
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSCrypt\bin\Debug\TOOLS.dll
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSCrypt\bin\Debug\TOOLS.pdb
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSCrypt\bin\Debug\TOOLS.xml
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSCrypt\obj\Debug\WSCrypt.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSCrypt\obj\Debug\WSCrypt.dll
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSCrypt\obj\Debug\WSCrypt.pdb

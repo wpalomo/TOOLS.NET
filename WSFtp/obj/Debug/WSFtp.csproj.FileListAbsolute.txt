@@ -1,0 +1,10 @@
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSFtp\bin\Debug\WSFtp.xml
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSFtp\bin\Debug\WSFtp.dll
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSFtp\bin\Debug\WSFtp.pdb
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSFtp\bin\Debug\WSFtp.tlb
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSFtp\bin\Debug\TOOLS.dll
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSFtp\bin\Debug\TOOLS.pdb
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSFtp\bin\Debug\TOOLS.xml
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSFtp\obj\Debug\WSFtp.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSFtp\obj\Debug\WSFtp.dll
+D:\PROYECTOS\SGA.NET\TEST\WSTools\WSFtp\obj\Debug\WSFtp.pdb

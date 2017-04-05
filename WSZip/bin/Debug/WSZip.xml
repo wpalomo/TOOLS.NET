@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WSZip</name>
+    </assembly>
+    <members>
+        <member name="T:ZIP.WSZip">
+            <summary> Funciones para comprimir / descomprimir archivos. </summary>
+            
+        </member>
+        <member name="M:ZIP.WSZip.SimpleCompress(System.String,System.String,System.Boolean,System.Int32,System.Boolean)">
+            <summary> Comprimir un archivo. </summary>
+            
+            <param name="pathFileToCompress"> Path del archivo a comprimir. </param>
+            <param name="pathCompressedFile"> Path del archivo comprimido. </param>
+            <param name="createFile"> Crear fichero destino. </param>
+            <param name="CompressionLvl"> Nivel de compresión. </param>
+            <param name="BaseDir"> Incluir el directorio base. </param>
+            
+            <returns> Resultado (S/N/C). </returns>
+            
+        </member>
+        <member name="M:ZIP.WSZip.FullCompress(System.String,System.Boolean,System.Int32,System.Object[])">
+            <summary> </summary>
+            
+            <param name="pathCompressedFile"></param>
+            <param name="createFile"> Crear fichero destino. </param>
+            <param name="CompressionLvl"> Nivel de compresión. </param>
+            <param name="ListaDeFicheros"> Lista de ficheros / carpetas a comprimir. </param>
+            
+            <returns></returns>
+            
+        </member>
+        <member name="M:ZIP.WSZip.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>
