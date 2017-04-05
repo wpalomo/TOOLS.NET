@@ -78,7 +78,7 @@ namespace VARIOS
 
         /// <summary> Gestión de pilas LIFO. </summary>
         /// 
-        /// <typeparam name="CualquierTipo"></typeparam>
+        /// <typeparam name="CualquierTipo">Tipo de datos de la pila. </typeparam>
         /// 
         public class GenericStack<CualquierTipo>
         {
@@ -115,7 +115,7 @@ namespace VARIOS
 
         /// <summary> Gestión de pilas FIFO. </summary>
         /// 
-        /// <typeparam name="CualquierTipo"></typeparam>
+        /// <typeparam name="CualquierTipo">Tipo de datos de la cola. </typeparam>
         /// 
         public class GenericQueue<CualquierTipo>
         {
